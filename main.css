@@ -1,1 +1,13 @@
-/*  */
+/* display property block */
+
+.block {
+  background-color: blue;
+  color: white;
+  display: block;
+}
+
+.inline {
+  background: red;
+  color: white;
+  display: block;
+}
