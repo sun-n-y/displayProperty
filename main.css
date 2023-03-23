@@ -1,1 +1,11 @@
 /* mobile nav bar */
+
+div {
+  background-color: blue;
+  color: white;
+  width: 300px;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 200px;
+  display: inline;
+}
