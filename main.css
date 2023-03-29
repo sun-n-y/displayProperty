@@ -1,1 +1,15 @@
-/*  */
+.block {
+  background-color: blue;
+  color: white;
+  width: 300px;
+  display: inline-block;
+}
+
+.inline {
+  background-color: red;
+  color: white;
+}
+
+body {
+  text-align: center;
+}
